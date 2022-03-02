@@ -2,6 +2,7 @@ mnist_fashion/data/
 mnist_fashion/runs/
 simple_gan/data/
 simple_gan/runs/
+simple_gan/__pycache__/
 simple_nn/MNIST/
 simple_nn/runs/
 
