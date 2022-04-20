@@ -5,4 +5,4 @@ simple_gan/runs/
 simple_gan/__pycache__/
 simple_nn/MNIST/
 simple_nn/runs/
-
+simple_cnn/data
