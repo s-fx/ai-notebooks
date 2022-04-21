@@ -1,2 +1,3 @@
 # ai-notebooks
-Me trying to do some ml
+Learning some ML 
+Simple notebooks
