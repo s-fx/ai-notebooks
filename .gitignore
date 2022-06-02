@@ -6,3 +6,8 @@ simple_gan/__pycache__/
 simple_nn/MNIST/
 simple_nn/runs/
 simple_cnn/data
+transfer_learning/hymenoptera_data
+transfer_learning/__pycache__
+spam-filter/data
+spam-filter/img
+speech_emotion_recon/data
