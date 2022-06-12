@@ -11,3 +11,5 @@ transfer_learning/__pycache__
 spam-filter/data
 spam-filter/img
 speech_emotion_recon/data
+computer_vision/data
+computer_vision/__pycache__
